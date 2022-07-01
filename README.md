@@ -41,7 +41,7 @@ plt.ylabel("Precision")
 pd.Series(scores, n).plot(kind='bar', color='#50589F')
 ```
 
-FOTO DO GRÁFICO
+(https://github.com/andrepelegrini/ml-classification/issues/1#issue-1291394339)
 
 As can be seen, the model derives the best precision score when `n_neighbors=2`.
 
